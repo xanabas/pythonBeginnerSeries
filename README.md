@@ -1,2 +1,2 @@
 # pythonBeginnerSeries
-This is pythong beginner repository
+This is python beginner repository
