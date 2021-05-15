@@ -1,4 +1,3 @@
-import random
 a = int(input('''which operation do you want to do?
 1. Add
 2. Subtract
